@@ -1,3 +1,9 @@
-a{
+a {
   color:4D4E4F;
 }
+a:active {
+  color:E31C79;
+}
+body{
+	margin-left:30px;margin-right:30px;line-height:125%;
+		}
