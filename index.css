@@ -1,5 +1,8 @@
-a {
+a:link {
   color:4D4E4F;
+}
+a:visited{
+	color:4D4E4F;
 }
 a:active {
   color:E31C79;
